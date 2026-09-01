@@ -1,3 +1,3 @@
 # membrane-sandwich-
 
-![Alt Text](mem05_r5umsa_ospacat_opc.gif)
+![til](./mem05_r5uma_ospacat_opc.gif)
