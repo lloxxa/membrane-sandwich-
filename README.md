@@ -13,4 +13,5 @@ The membrane moves considerably in z, as well as in the (x,y)-plane. This moveme
 
 
 ![til](./mem05-r5uma-ospacat-autoimage.gif)
+
 **Movie 3**: R5uMA in a DOPE/DOPG 3/1 lipid bilayers, re-imaged using autoimage.
